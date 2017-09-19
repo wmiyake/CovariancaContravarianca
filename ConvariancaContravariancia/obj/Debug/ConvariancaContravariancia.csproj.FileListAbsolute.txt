@@ -1,0 +1,6 @@
+C:\Users\Wellington Miyake\source\repos\TreinaWebCSharpAvançado\ConvariancaContravariancia\bin\Debug\ConvariancaContravariancia.exe
+C:\Users\Wellington Miyake\source\repos\TreinaWebCSharpAvançado\ConvariancaContravariancia\bin\Debug\ConvariancaContravariancia.pdb
+C:\Users\Wellington Miyake\source\repos\TreinaWebCSharpAvançado\ConvariancaContravariancia\obj\Debug\ConvariancaContravariancia.csprojResolveAssemblyReference.cache
+C:\Users\Wellington Miyake\source\repos\TreinaWebCSharpAvançado\ConvariancaContravariancia\obj\Debug\ConvariancaContravariancia.csproj.CoreCompileInputs.cache
+C:\Users\Wellington Miyake\source\repos\TreinaWebCSharpAvançado\ConvariancaContravariancia\obj\Debug\ConvariancaContravariancia.exe
+C:\Users\Wellington Miyake\source\repos\TreinaWebCSharpAvançado\ConvariancaContravariancia\obj\Debug\ConvariancaContravariancia.pdb
